@@ -1,6 +1,4 @@
 # 🛍️ Detoxik – Ecommerce de Lencería (React JS + Vite)
-
-Proyecto final desarrollado para el **Curso de React JS en Coderhouse**.  
 Se trata de una aplicación web de tipo **ecommerce**, donde los usuarios pueden navegar un catálogo de productos de lencería, ver el detalle de cada producto, agregar artículos al carrito y finalizar una compra.
 
 ---
@@ -22,10 +20,6 @@ Durante el cursado se trabajaron los siguientes conceptos:
 - Configuración y optimización del proyecto con **Vite**
 
 ---
-
-## 🧾 Entrega Final – Ecommerce *Detoxik*
-
-Este proyecto representa la **entrega final del curso**, donde se aplica todo lo aprendido para construir un ecommerce funcional llamado **Detoxik**.
 
 ### 🔹 Funcionalidades principales
 
@@ -61,15 +55,17 @@ Este proyecto representa la **entrega final del curso**, donde se aplica todo lo
 git clone https://github.com/GabrielaAyelenBarrera/ReactJs-EntregaFinal-GabrielaBarrera.git
 cd ReactJs-EntregaFinal-GabrielaBarrera
 
+---
+
 ### 2️⃣ Instalar dependencias
 `npm install`
 
+---
 ### 3️⃣ Levantar servidor
 `npm run dev`
 
+---
 ### 4️⃣ Abrir el proyecto en el navegador
-`npm run dev`
-
 Una vez iniciado el servidor, Vite mostrará una URL similar a:
 
 `http://localhost:5173/`
