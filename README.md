@@ -103,8 +103,6 @@ Las órdenes de compra se guardan en Cloud Firestore, lo que permite:
 <img width="1431" height="767" alt="image" src="https://github.com/user-attachments/assets/c7d8ad85-30a1-47db-b46b-f43b54cb75b6" />
 <img width="1820" height="774" alt="image" src="https://github.com/user-attachments/assets/08e685dc-b3dd-4753-8dff-b8e9b1a82478" />
 <img width="1836" height="777" alt="image" src="https://github.com/user-attachments/assets/a7403b06-0416-45a3-bbdf-ed0caec028b8" />
-<img width="1796" height="627" alt="image" src="https://github.com/user-attachments/assets/1fd7b870-8cf3-49ee-8346-18888931fdfd" />
-<img width="1362" height="615" alt="image" src="https://github.com/user-attachments/assets/3de92b9a-1fc9-4976-b8f3-1004b89fbb0a" />
 <img width="1362" height="615" alt="image" src="https://github.com/user-attachments/assets/20047d4f-f448-4b4c-82fe-d58eb30d0b9a" />
 <img width="1436" height="479" alt="image" src="https://github.com/user-attachments/assets/8f558d4b-8122-443b-87b9-da498e9d7658" />
 
