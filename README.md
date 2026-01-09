@@ -51,9 +51,8 @@ Durante el cursado se trabajaron los siguientes conceptos:
 
 ### 1️⃣ Clonar el repositorio
 
-```bash
-git clone https://github.com/GabrielaAyelenBarrera/ReactJs-EntregaFinal-GabrielaBarrera.git
-cd ReactJs-EntregaFinal-GabrielaBarrera
+`git clone https://github.com/GabrielaAyelenBarrera/ReactJs-EntregaFinal-GabrielaBarrera.git`
+`cd ReactJs-EntregaFinal-GabrielaBarrera`
 
 ---
 
