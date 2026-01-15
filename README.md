@@ -117,11 +117,10 @@ Las órdenes de compra se guardan en Cloud Firestore, lo que permite:
 
 
 ## 💖 **ROMANTIC PANTIES**  
-![...](docs/images/romant.png)
+![...](docs/images/romant.png) 
 
 ## 🌙 **NIGHT COLLECTION**  
 ![...](docs/images/night.png)
-
 
 ## 👙 **BRA & PANTY SETS**  
 ![...](docs/images/bra.png)
