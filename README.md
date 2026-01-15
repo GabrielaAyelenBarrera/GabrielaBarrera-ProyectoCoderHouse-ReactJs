@@ -112,33 +112,33 @@ Las órdenes de compra se guardan en Cloud Firestore, lo que permite:
 
 ## 🖼️ Vista previa
 
-## 🏠 **HOME**  
+## **HOME**  🏠 
 ![...](docs/images/home.png)
 
 
-## 💖 **ROMANTIC PANTIES**  
+## **ROMANTIC PANTIES**   💖
 ![...](docs/images/romant.png) 
 
 ## **NIGHT COLLECTION**  🌙
 ![...](docs/images/night.png)
 
-## 👙 **BRA & PANTY SETS**  
+## **BRA & PANTY SETS**  👙 
 ![...](docs/images/bra.png)
 
 
-## 🛍️ Detalle del Producto
+## Detalle del Producto 🛍️
 ![...](docs/images/cart1.png)
 
 
-## 🛒 Detalle de Producto con selección de cantidad
+## Detalle de Producto con selección de cantidad 🛒 
 ![...](docs/images/cart2.png)
 
 
-## 🧾 Checkout – Resumen de la Compra
+## Checkout – Resumen de la Compra 🧾 
 ![...](docs/images/cart3.png)
 
 
-## 📦 Confirmación de Compra y número de seguimiento
+## Confirmación de Compra y número de seguimiento 📦 
 ![...](docs/images/cart4.png)
 ![...](docs/images/cart5.png)
 
